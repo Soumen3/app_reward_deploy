@@ -103,7 +103,7 @@ const AdminPanel = () => {
     };
 
     return (
-        <div className="bg-gray-700 mx-auto p-8 text-white">
+        <div className="bg-gray-700 mx-auto p-8 text-white min-h-screen">
             <div className="flex justify-between items-center mb-4">
                 <div className="w-1/2">
                     <h1 className="text-3xl font-bold mb-4">Admin Panel - Manage Apps</h1>
